@@ -1,6 +1,6 @@
 # RANDOM 
 
-#git clone https://github.com/H4X-GG/RANDOM 
+# git clone https://github.com/H4X-GG/RANDOM 
 
 # cd RANDOM 
 
