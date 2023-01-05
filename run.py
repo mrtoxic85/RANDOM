@@ -8,7 +8,7 @@ os.system('xdg-open https://facebook.com/groups/590005482506415/')
 
 import rndm 
 
-rndm.main_apv()
+rndm.o()
 
  
 
