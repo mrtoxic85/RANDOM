@@ -17,7 +17,7 @@
 - `rm -rf RANDOM`
 - `git clone https://github.com/H4X-GG/RANDOM`
 - `cd RANDOM`
-- `python run.py`
+- `python H4X-NOOB.py`
 
   ##  MY SOCIAL MEDIA : <br>
 <p align="left">
@@ -32,9 +32,7 @@
 <a href="https://wa.me/8801982386362?text=Assalamualaikum%20Mehedi%20(H4X)%20" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/565d10f8de6d9e9b29586c23d487ed7f.jpg" alt="theorygg1" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<a href="https://t.me/h4xtermux" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/2952b7f67446895f8f11c3afacc89edc.jpg" alt="theorygg1" height="30" width="40" /></a>
-</p>
+
 
 
 
