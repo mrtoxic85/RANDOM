@@ -8,4 +8,4 @@ os.system('xdg-open https://github.com/H4X-GG')
 
 os.system(" clear ")
 
-import SSCEXAM
+import green
