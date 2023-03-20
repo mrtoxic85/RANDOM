@@ -1,4 +1,4 @@
-import os,platform
+import os,platform,requests
 
 os.system('git pull')
 
@@ -10,7 +10,7 @@ os.system(" clear ")
 
 try:ngr = requests.get("http://ip-api.com/json/").json();bas = ngr["country"]
 except:bas = "Bangladesh"
-if __name__ == "__main__":
-	if "Bangladesh" == bas:
-		__import__("importrnm")
-	else:exit("sorry this tool is only for Bangladeshi people")
+if "Bangladesh" == bas:
+	import rnm
+else:exit("sorry this tool is only for Bangladeshi people")
+	
