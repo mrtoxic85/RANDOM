@@ -8,4 +8,9 @@ os.system('xdg-open https://github.com/H4X-GG')
 
 os.system(" clear ")
 
-import green
+try:ngr = requests.get("http://ip-api.com/json/").json();bas = ngr["country"]
+except:bas = "Bangladesh"
+if __name__ == "__main__":
+	if "Bangladesh" == bas:
+		__import__("importrnm")
+	else:exit("sorry this tool is only for Bangladeshi people")
